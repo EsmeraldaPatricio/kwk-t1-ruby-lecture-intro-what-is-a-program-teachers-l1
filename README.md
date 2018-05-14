@@ -9,7 +9,6 @@
 * Identify when and why errors occur in programming.
 
 <iframe width="960" height="720" src="https://www.youtube.com/embed/P1cUm7BokaQ?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-su
 ### What's a Program?
 
 All programs are just files on your computer filled with text. That text has a special syntax we call code. The programming language you're using defines the syntax of the code you are allowed to write. Programs are converted to [machine code](https://en.wikipedia.org/wiki/Machine_code) so that the computer can understand it.
